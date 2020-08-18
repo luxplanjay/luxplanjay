@@ -1,25 +1,14 @@
-Under construction... 👨‍🎨
+This «thing» is under construction... 👨‍🎨
 
-### Hi there, I'm Lpj 👋
+### Hi there, I'm Alexander 👋
 
-<!--
-**luxplanjay/luxplanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a lot of different stuff
+- 🌱 I’m currently learning everything I can get my hands on
+- 🤔 I’m looking for help with finding more time in a single day
+- 📫 How to reach me: [alexander.repeta@gmail.com](alexander.repeta@gmail.com)
+- ⚡ Fun fact: I love what I do - code and help people learn coding
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png -->
-
-### My stack and tools
+### My stack and tools:
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -50,5 +39,3 @@ Here are some ideas to get you started:
 ---
 
 ![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=luxplanjay&show_icons=true&count_private=true)
-
-![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
