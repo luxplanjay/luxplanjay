@@ -2,9 +2,9 @@
 
 ### Hi there, I'm Alexander 👋
 
-- 🔭 I’m currently working on **a lot of different stuff**
-- 🌱 I’m currently learning **everything I can get my hands on**
-- 🤔 I’m looking for help with **finding more time in a single day**
+- 🔭 Working on **a lot of different stuff**
+- 🌱 Learning **everything I can get my hands on**
+- 🤔 Looking for help with **finding more time in a single day**
 - 📫 How to reach me: **alexander.repeta@gmail.com**
 - ⚡ Fun fact: **I love what I do - code and help people learn coding**
 
