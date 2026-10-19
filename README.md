@@ -2,10 +2,6 @@
 
 **Software Developer · Instructor and Course Author at [BetterEd](https://bettered.global)**
 
-```ts
-const alexander = {
-  experience: "10+ years",
-  focus: ["Full-stack development", "Agentic development"],
-  building: ["Agent skills", "Internal tools", "Internal services"],
-};
-```
+I'm a full-stack developer with more than 10 years of experience and a focus
+on agentic development. I also build agent skills, internal tools and internal
+services.
